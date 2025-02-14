@@ -1,0 +1,1 @@
+This code demonstrates a common error in SQL when attempting to filter rows based on the average salary of a department. The incorrect usage of AVG() in the WHERE clause leads to a syntax error. The solution shows the correct way to calculate the average salary first using a subquery and then use it in the WHERE clause.
